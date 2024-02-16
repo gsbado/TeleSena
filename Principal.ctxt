@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Principal
+comment0.text=\r\n\ Gabriela\ Spanemberg\ Bado\r\n\ Algoritmos\ e\ Programa\u00E7\u00E3o\:\ Fundamentos\r\n\ 2023/01\r\n\ Essa\ classe\ possui\ o\ m\u00E9todo\ main\ e\ chama\ os\ m\u00E9todos\ das\ outras\ classes\ para\ que\ o\ sistema\ funcione\ corretamente\ e\ imprima\ na\ tela\ as\ informa\u00E7\u00F5es\ necess\u00E1rias\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
